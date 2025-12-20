@@ -13,7 +13,7 @@
 ## 👨‍🚀 About Me
 
 <p>
-I’m a Computer Science undergraduate who prefers learning by building things from scratch, breaking them deliberately, and then rebuilding them until the concepts stick.
+🎓 I’m a Computer Science undergraduate who prefers learning by building things from scratch, breaking them deliberately, and then rebuilding them until the concepts stick.
 </p>
 
 <p>
@@ -44,6 +44,22 @@ MERN stack, APIs, Git/GitHub workflows, or debugging bugs that only show up late
 <p>
 ⚡ <b>Fun fact:</b><br>
 I intentionally break things just to understand how they work — fixing them is just part of the process.
+</p>
+
+---
+
+<h2 style="color:#FF4D4D;">🧑‍🚀 GitHub Profiles</h2>
+
+<p style="color:#D9D9D9;">
+<b>Primary:</b>
+<a href="https://github.com/MasterOFSnippet" style="color:#4DFFBC;">MasterOFSnippet</a><br><br>
+
+<b>Alternate / Experiments:</b>
+<a href="https://github.com/CodeCosmonautArav" style="color:#4DFFBC;">CodeCosmonautArav</a>
+</p>
+
+<p style="color:#898989;">
+Second profile is used for side projects, experiments, and exploration.
 </p>
 
 ---
