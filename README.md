@@ -1,11 +1,11 @@
 <!-- ================= PROFILE BANNER ================= --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:121212,100:0f0f0f&height=220&section=header&text=CodeCosmonautArav&fontSize=40&fontColor=4DFFBC" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:121212,100:0f0f0f&height=220&section=header&text=Arav%20Gautam&fontSize=40&fontColor=4DFFBC" />
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Building+to+Understand;Breaking+to+Learn;Exploring+Systems+%26+Code;Open+Source+Experimenter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Building+to+Understand;DSA+%7C+Problem+Solver;Cloud+%26+Backend+Enthusiast;Open+Source+Contributor;Exploring+Systems+%26+Code" />
 </p>
 
 ---
