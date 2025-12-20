@@ -91,10 +91,10 @@ I intentionally break things just to understand how they work — fixing them is
 ---
 
 <p>
-<b>
+<b >
 “Curiosity pushes me to start, discipline makes sure I don’t quit halfway.”
 </b><br>
-— <i>Arav</i>
+                                                                     — <i>Arav</i>
 </p>
 
 ---
